@@ -1,0 +1,8 @@
+[submodule "a-module"]
+	path = a-module
+	url = https://github.com/Vc-great/c.git
+	branch = main
+[submodule "aa-module"]
+	path = aa-module
+	url = https://github.com/Vc-great/a.git
+	branch = main
